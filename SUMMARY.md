@@ -6,7 +6,10 @@
 
 ## 发行商业务
 
-* [发行商](fa-hang-shang-ye-wu/fa-hang-shang.md)
+* [发行提货券](fa-hang-shang-ye-wu/fa-hang-shang.md)
+* [提货券发货](fa-hang-shang-ye-wu/ti-huo-quan-fa-huo.md)
+* [发行票卡](fa-hang-shang-ye-wu/fa-hang-piao-ka.md)
+* [票卡核销](fa-hang-shang-ye-wu/piao-ka-he-xiao.md)
 
 ## 电商业务
 
