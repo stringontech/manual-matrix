@@ -1,4 +1,4 @@
 # Table of contents
 
-* [数字工厂 手册](README.md)
+* [数字工厂手册](README.md)
 
