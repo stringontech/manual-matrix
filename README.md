@@ -1,30 +1,6 @@
 # 系统概述
 
-wr请问请问热请问热去玩儿请问热确认
-
-{% file src=".gitbook/assets/ping-mu-lu-zhi-20200821-shang-wu-11.06.40.mov" caption="23·123·13" %}
-
-$$
-a = b
-$$
-
-{% tabs %}
-{% tab title="First Tab23412341234134" %}
-
-{% endtab %}
-
-{% tab title="" %}
-
-{% endtab %}
-
-{% tab title="" %}
-
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
-{% endtabs %}
+![](.gitbook/assets/ping-mu-lu-zhi-20200821-shang-wu-11.gif)
 
 | 13123 | 234 | 22324 |
 | :--- | :--- | :--- |
