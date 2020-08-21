@@ -15,8 +15,8 @@
 
 * [电商](dian-shang-ye-wu/dian-shang.md)
 
-## 认证商业务 
+## 认证商业务
 
-* [一物一码](ren-zhang-shang-ye-wu/ren-zheng-shang.md)
-* [授权销售商](ren-zhang-shang-ye-wu/shou-quan-xiao-shou-shang.md)
+* [一物一码](ren-zheng-shang-ye-wu/ren-zheng-shang.md)
+* [授权销售商](ren-zheng-shang-ye-wu/shou-quan-xiao-shou-shang.md)
 
