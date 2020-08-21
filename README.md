@@ -1,6 +1,6 @@
 # 系统概述
 
-![](.gitbook/assets/ping-mu-lu-zhi-20200821-shang-wu-11.gif)
+![屏幕录制2020-08-21上午11](http://md.stringon.com/img/屏幕录制2020-08-21 上午11.gif)
 
 | 13123 | 234 | 22324 |
 | :--- | :--- | :--- |
