@@ -1,6 +1,7 @@
 # Table of contents
 
 * [简介](README.md)
+* [常见问题](faq.md)
 
 ## 发行商
 
@@ -32,8 +33,4 @@
 
 * [企业认证](qi-ye-she-zhi/qi-ye-ren-zheng.md)
 * [企业信息](qi-ye-she-zhi/qi-ye-xin-xi.md)
-
----
-
-* [FAQ](faq.md)
 
