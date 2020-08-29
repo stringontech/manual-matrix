@@ -6,7 +6,7 @@
 ## 发行商 <a id="publisher"></a>
 
 * [实物商品类（提货券）](publisher/real/README.md)
-  * [定义提货券](publisher/real/ding-yi-ti-huo-quan.md)
+  * [定义提货券](publisher/real/coupons.md)
   * [发行商品](publisher/real/fa-hang-shang-pin.md)
   * [发货](publisher/real/fa-huo.md)
 * [虚拟商品类（票卡）](publisher/virtual/README.md)
