@@ -30,11 +30,11 @@
 
 ## 授权经销商 <a id="authorized-seller"></a>
 
-* [简介](authorized-seller/jian-jie.md)
-* [授权商品](authorized-seller/shou-quan-shang-pin.md)
+* [简介](authorized-seller/vendors-profile.md)
+* [授权商品](authorized-seller/licensed-product.md)
 
 ## 企业设置 <a id="enterprise"></a>
 
-* [企业认证](enterprise/qi-ye-ren-zheng.md)
-* [企业信息](enterprise/qi-ye-xin-xi.md)
+* [企业认证](enterprise/certification.md)
+* [企业信息](enterprise/information.md)
 
