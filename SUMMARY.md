@@ -5,36 +5,36 @@
 
 ## 发行商
 
-* [实物商品类（提货券）](shi-wu-shang-pin-lei-ti-huo-quan/README.md)
-  * [定义提货券](shi-wu-shang-pin-lei-ti-huo-quan/ding-yi-ti-huo-quan.md)
-  * [发行商品](shi-wu-shang-pin-lei-ti-huo-quan/fa-hang-shang-pin.md)
-  * [发货](shi-wu-shang-pin-lei-ti-huo-quan/fa-huo.md)
-* [虚拟商品类（票卡）](xu-ni-shang-pin-lei-piao-ka/README.md)
-  * [票卡的定义与发行](xu-ni-shang-pin-lei-piao-ka/piao-ka-de-ding-yi-yu-fa-hang.md)
-  * [核销项管理](xu-ni-shang-pin-lei-piao-ka/he-xiao-xiang-guan-li-1.md)
-  * [票卡的定义与发行](xu-ni-shang-pin-lei-piao-ka/fa-hang-piao-ka.md)
-  * [票卡的核销](xu-ni-shang-pin-lei-piao-ka/piao-ka-de-shi-yong.md)
-  * [物影商家助手](xu-ni-shang-pin-lei-piao-ka/he-xiao-quan-xian-guan-li.md)
-  * [商家聚合](xu-ni-shang-pin-lei-piao-ka/shang-jia-ju-he.md)
-* [一物一码（防伪码）](yi-wu-yi-ma-fang-wei-ma/README.md)
-  * [申请码](yi-wu-yi-ma-fang-wei-ma/shen-qing-ma.md)
-  * [管理码](yi-wu-yi-ma-fang-wei-ma/guan-li-ma.md)
-  * [扩展功能](yi-wu-yi-ma-fang-wei-ma/kuo-zhan-gong-neng.md)
-  * [授权经销商](yi-wu-yi-ma-fang-wei-ma/shou-quan-jing-xiao-shang.md)
-* [营销与活动](ying-xiao-yu-huo-dong/README.md)
-  * [抽奖](ying-xiao-yu-huo-dong/chou-jiang.md)
-  * [一码一领](ying-xiao-yu-huo-dong/yi-ma-yi-ling.md)
-  * [扫码领取](ying-xiao-yu-huo-dong/sao-ma-ling-qu.md)
-* [凭证钱包](ping-zheng-qian-bao.md)
-* [财务管理](cai-wu-guan-li.md)
+* [实物商品类（提货券）](fa-hang-shang/real/README.md)
+  * [定义提货券](fa-hang-shang/real/ding-yi-ti-huo-quan.md)
+  * [发行商品](fa-hang-shang/real/fa-hang-shang-pin.md)
+  * [发货](fa-hang-shang/real/fa-huo.md)
+* [虚拟商品类（票卡）](fa-hang-shang/virtual/README.md)
+  * [票卡的定义与发行](fa-hang-shang/virtual/piao-ka-de-ding-yi-yu-fa-hang.md)
+  * [核销项管理](fa-hang-shang/virtual/he-xiao-xiang-guan-li-1.md)
+  * [票卡的定义与发行](fa-hang-shang/virtual/fa-hang-piao-ka.md)
+  * [票卡的核销](fa-hang-shang/virtual/piao-ka-de-shi-yong.md)
+  * [物影商家助手](fa-hang-shang/virtual/he-xiao-quan-xian-guan-li.md)
+  * [商家聚合](fa-hang-shang/virtual/shang-jia-ju-he.md)
+* [一物一码（防伪码）](fa-hang-shang/onecode/README.md)
+  * [申请码](fa-hang-shang/onecode/shen-qing-ma.md)
+  * [管理码](fa-hang-shang/onecode/guan-li-ma.md)
+  * [扩展功能](fa-hang-shang/onecode/kuo-zhan-gong-neng.md)
+  * [授权经销商](fa-hang-shang/onecode/shou-quan-jing-xiao-shang.md)
+* [营销与活动](fa-hang-shang/market/README.md)
+  * [抽奖](fa-hang-shang/market/chou-jiang.md)
+  * [一码一领](fa-hang-shang/market/yi-ma-yi-ling.md)
+  * [扫码领取](fa-hang-shang/market/sao-ma-ling-qu.md)
+* [凭证钱包](fa-hang-shang/ping-zheng-qian-bao.md)
+* [财务管理](fa-hang-shang/finance.md)
 
-## 授权经销商
+## 授权经销商 <a id="authorized-seller"></a>
 
-* [简介](shou-quan-jing-xiao-shang/jian-jie.md)
-* [授权商品](shou-quan-jing-xiao-shang/shou-quan-shang-pin.md)
+* [简介](authorized-seller/jian-jie.md)
+* [授权商品](authorized-seller/shou-quan-shang-pin.md)
 
-## 企业设置
+## 企业设置 <a id="enterprise"></a>
 
-* [企业认证](qi-ye-she-zhi/qi-ye-ren-zheng.md)
-* [企业信息](qi-ye-she-zhi/qi-ye-xin-xi.md)
+* [企业认证](enterprise/qi-ye-ren-zheng.md)
+* [企业信息](enterprise/qi-ye-xin-xi.md)
 
