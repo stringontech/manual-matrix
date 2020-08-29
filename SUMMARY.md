@@ -1,22 +1,25 @@
 # Table of contents
 
-* [系统概述](README.md)
-* [企业设置](qi-ye-she-zhi.md)
-* [个人设置](ge-ren-she-zhi.md)
+* [Matrix数字工厂用户手册](README.md)
 
-## 发行商业务
+## 实物商品类 <a id="ding-yi-he-fa-hang-shang-pin"></a>
 
-* [发行提货券](fa-hang-shang-ye-wu/fa-hang-shang.md)
-* [提货券发货](fa-hang-shang-ye-wu/ti-huo-quan-fa-huo.md)
-* [发行票卡](fa-hang-shang-ye-wu/fa-hang-piao-ka.md)
-* [票卡核销](fa-hang-shang-ye-wu/piao-ka-he-xiao.md)
+* [定义提货券](ding-yi-he-fa-hang-shang-pin/ding-yi-ti-huo-quan.md)
+* [发行商品](ding-yi-he-fa-hang-shang-pin/fa-hang-shang-pin.md)
+* [发货](ding-yi-he-fa-hang-shang-pin/fa-huo.md)
 
-## 电商业务
+## 数字票卡类 <a id="he-yan"></a>
 
-* [电商](dian-shang-ye-wu/dian-shang.md)
+* [票卡的定义与发行](he-yan/piao-ka-de-ding-yi-yu-fa-hang/README.md)
+  * [核销项管理](he-yan/piao-ka-de-ding-yi-yu-fa-hang/he-xiao-xiang-guan-li-1.md)
+  * [票卡的定义与发行](he-yan/piao-ka-de-ding-yi-yu-fa-hang/fa-hang-piao-ka.md)
+* [票卡的核销](he-yan/piao-ka-de-shi-yong/README.md)
+  * [商家聚合](he-yan/piao-ka-de-shi-yong/shang-jia-ju-he.md)
+  * [物影商家助手](he-yan/piao-ka-de-shi-yong/he-xiao-quan-xian-guan-li.md)
 
-## 认证商业务
+## 营销服务
 
-* [一物一码](ren-zheng-shang-ye-wu/ren-zheng-shang.md)
-* [授权销售商](ren-zheng-shang-ye-wu/shou-quan-xiao-shou-shang.md)
+* [扫码领取](ying-xiao-fu-wu/sao-ma-ling-qu.md)
+* [一码一领](ying-xiao-fu-wu/yi-ma-yi-ling.md)
+* [抽奖](ying-xiao-fu-wu/chou-jiang.md)
 
