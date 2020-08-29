@@ -1,7 +1,7 @@
 # Table of contents
 
 * [简介](README.md)
-* [常见问题](c1.md)
+* [常见问题](c2.md)
 
 ## 发行商 <a id="c3"></a>
 
