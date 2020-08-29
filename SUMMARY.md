@@ -5,8 +5,6 @@
 
 ## 发行商
 
----
-
 * [实物商品类（提货券）](shi-wu-shang-pin-lei-ti-huo-quan/README.md)
   * [定义提货券](shi-wu-shang-pin-lei-ti-huo-quan/ding-yi-ti-huo-quan.md)
   * [发行商品](shi-wu-shang-pin-lei-ti-huo-quan/fa-hang-shang-pin.md)
