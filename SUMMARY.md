@@ -27,6 +27,7 @@
 
 ## 授权经销商
 
+* [简介](shou-quan-jing-xiao-shang/jian-jie.md)
 * [授权商品](shou-quan-jing-xiao-shang/shou-quan-shang-pin.md)
 
 ## 企业设置
