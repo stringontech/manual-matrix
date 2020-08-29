@@ -25,7 +25,7 @@
   * [抽奖](fa-hang-shang/market/chou-jiang.md)
   * [一码一领](fa-hang-shang/market/yi-ma-yi-ling.md)
   * [扫码领取](fa-hang-shang/market/sao-ma-ling-qu.md)
-* [凭证钱包](fa-hang-shang/ping-zheng-qian-bao.md)
+* [凭证钱包](fa-hang-shang/wallet.md)
 * [财务管理](fa-hang-shang/finance.md)
 
 ## 授权经销商 <a id="authorized-seller"></a>
