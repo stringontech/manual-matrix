@@ -34,3 +34,9 @@
 
 * [授权经销商](c5/c5-1.md)
 
+## 相关链接
+
+---
+
+* [数字商铺手册](https://help-shop.stringon.com/)
+
