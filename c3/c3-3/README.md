@@ -6,7 +6,7 @@
 - 每一枚防伪码都是多方签名上链，可确认其发行主体、认证机构和技术提供方的身份
 - 每一枚防伪码在核验时，都会转入核验人的地址中，可确保核验的唯一性
 
-![](http://md.stringon.com/img/%E9%98%B2%E4%BC%AA%E7%A0%81.png)
+![防伪码信息关系示意图](http://md.stringon.com/img/%E9%98%B2%E4%BC%AA%E7%A0%81.png)
 
 使用 **防伪码（一物一码）**可以为商家带来多重收益：
 
@@ -32,5 +32,5 @@
 
 ###  防伪码的业务流程
 
-![](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200904104846.png)
+![防伪码业务流程图](http://md.stringon.com/img/%7Bfilename%7D%7B.suffix%7D20200904104846.png)
 
