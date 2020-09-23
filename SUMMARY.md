@@ -36,7 +36,5 @@
 
 ## 相关链接
 
----
-
 * [数字商铺手册](https://help-shop.stringon.com/)
 
